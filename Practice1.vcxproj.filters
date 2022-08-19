@@ -18,19 +18,19 @@
     <ClCompile Include="Q1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="Q2.c">
+    <ClCompile Include="q2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="3.c">
+    <ClCompile Include="Q3.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="4.c">
+    <ClCompile Include="Q4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5.c">
+    <ClCompile Include="Q5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="6.c">
+    <ClCompile Include="Q6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="7.c">
