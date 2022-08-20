@@ -15,7 +15,7 @@ int main()
     while (check == 'y') {
         number = get_number();
         cal_factorial(number);
-        //need to fix loop to input more numbers
+        getchar();
         printf("input 'y' for another cal:");
         scanf("%c",&check);
     }

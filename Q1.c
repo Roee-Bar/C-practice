@@ -1,5 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
+
 #include <stdio.h>
+
 int main() {
     /*name: main
     input: 2 floats

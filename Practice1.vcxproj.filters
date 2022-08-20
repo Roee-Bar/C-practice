@@ -18,7 +18,7 @@
     <ClCompile Include="Q1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="q2.c">
+    <ClCompile Include="Q2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Q3.c">
@@ -33,10 +33,10 @@
     <ClCompile Include="Q6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="7.c">
+    <ClCompile Include="Q7.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="8.c">
+    <ClCompile Include="Q8.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
